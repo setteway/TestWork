@@ -1,0 +1,28 @@
+.container_advantages{
+	background: #fff;
+	
+	
+}
+.item{
+	//width: 50%;
+	//text-align: top;
+	//justify-content: top;
+	vertical-align: top;
+
+	
+	padding: 20px;
+}
+.item:hover{
+	border-bottom: 2px solid #000; 
+}
+.desc1 {
+    color: #666;
+    padding-left: 12px;
+    border-left: 1px solid #e2e2e2;
+}
+main{
+	background: #E7EAED;
+}
+html, header{
+	//text-align: center;
+}
